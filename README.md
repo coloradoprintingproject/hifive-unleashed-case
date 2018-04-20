@@ -1,2 +1,21 @@
 # hifive-unleashed-case
-3D printable case for the SiFive HiFive Unleashed board designed in FreeCAD
+hifive-unleashed-case
+
+
+Links:
+
+
+https://www.sifive.com/products/hifive-unleashed
+
+https://www.crowdsupply.com/sifive/hifive-unleashed
+
+https://wiki.debian.org/RISC-V
+
+https://www.forksand.com
+
+
+Copyright (C) 2018, Fork Sand, Inc.
+
+Designed under contract by the Colorado Printing Project, LLC.
+
+http://coloradoprintingproject.org/
